@@ -37,7 +37,7 @@ Hi! My name is <b>Javier</b>, and I am currently a <b>Multiplatform Application 
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvr-19&theme=tokyonight) | ![Javier's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jvr-19&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvr-19&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=jvr-19&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=jvr-19&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <br>
 
