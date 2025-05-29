@@ -1,7 +1,7 @@
 <h1> Hello Fellow < Developers/ >! <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F782223231121227776.gif%3Fv%3D1&w=64&q=75" width="30px"> </h1>
 <p align='center'> Welcome to my GitHub Profile! </p>
-
-[![Profile views](https://visitcount.itsvg.in/api?id=jvr-19&icon=0&color=6)](https://visitcount.itsvg.in)
+ 
+[![Profile views](https://komarev.com/ghpvc/?username=jvr-19&color=blue&style=flat)](https://komarev.com/ghpvc/?username=jvr-19&color=blue&style=flat)
 [![GitHub Followers](https://img.shields.io/github/followers/jvr-19?label=Follow&style=social)](https://github.com/jvr-19)
 
 <div size='20px'> 
