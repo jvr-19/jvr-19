@@ -41,18 +41,26 @@ The project includes a structured question engine, review workflows, progress tr
 
 > **Status:** actively building & using it.
 
+### 📻 XRadio
+
+A multi-platform online radio project focused on discovering and listening to radio stations through a modern, simple experience.
+
+Currently evolving the project across **mobile and web**, with an ongoing redesign and modernization of the original application.
+
+> **Status:** private · actively being redesigned.
+
 ---
 
-## 🧪 Also exploring
+## 🔬 Interests
 
-**🥽 Mixed Reality**  
-Experimenting with software for Meta Quest 3 and immersive interfaces.
+**📱 Mobile & Web Development**  
+Building applications across platforms and experimenting with better ways to turn ideas into usable products.
 
 **🤖 AI & Automation**  
-Finding useful ways to integrate AI and automation into real workflows — not just adding AI for the sake of it.
+Using AI and automation where they provide actual value — from development workflows to everyday tools.
 
-**📱 Mobile Development**  
-Building applications and experimenting across the Apple and Android ecosystems.
+**🧩 Product Development**  
+I enjoy taking an idea beyond the code: designing the experience, iterating on it and turning it into something I would actually use.
 
 ---
 
