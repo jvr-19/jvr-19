@@ -1,47 +1,90 @@
-<h1> Hello Fellow < Developers/ >! <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F782223231121227776.gif%3Fv%3D1&w=64&q=75" width="30px"> </h1>
-<p align='center'> Welcome to my GitHub Profile! </p>
- 
-[![Profile views](https://komarev.com/ghpvc/?username=jvr-19&color=blue&style=flat)](https://komarev.com/ghpvc/?username=jvr-19&color=blue&style=flat)
-[![GitHub Followers](https://img.shields.io/github/followers/jvr-19?label=Follow&style=social)](https://github.com/jvr-19)
+<div align="center">
 
-<div size='20px'> 
-Hi! My name is <b>Javier</b>, and I am currently a <b>Multiplatform Application Development</b> student. Thanks for taking the time to check out my GitHub profile! 😄
+# Javier Rico Rodríguez
+
+### Software Developer · Mobile · Web · AI
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software;Building+for+mobile%2C+web+and+beyond;AI+%26+Big+Data+Certified;Always+building.+Always+learning.)](https://git.io/typing-svg)
+
+<a href="https://www.linkedin.com/in/jvr05/">
+  <img src="https://img.shields.io/badge/LinkedIn-jvr05-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://discord.com/users/668120759725457408">
+  <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
 </div>
-
-<h2> About Me <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="50px"></h2>
-
-<img align="right" alt="Coding" width="50%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🎓 I'm currently studying **Multiplatform Application Development**
-  
-- 🌱 Learning **Java, Kotlin, React, and JavaScript**
-  
-- 🤝 Looking to collaborate on **challenging and creative projects**
-  
-- 💬 Chat with me about **Java, Kotlin, JavaScript, SQL, and more!**
-  
-- ⚡ Fun fact: **I'm always curious about the latest dev tools and trends**.
-
-<h2> Skills and Technologies <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="32px"></h2>
-
-[![My Skills](https://skillicons.dev/icons?i=java,react,kotlin,js,html,css,git,mongodb,discordjs)](https://skillicons.dev)
-
-<h2> Connect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"></h2>
-
-<a href='https://github.com/jvr-19' target="_blank"> <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href='https://discord.com/users/668120759725457408' target="_blank"> <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"/></a>
-
-<h2> My GitHub Activity <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50px"></h2>
-
-[![Javier's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jvr-19&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvr-19&theme=tokyonight) | ![Javier's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jvr-19&theme=tokyonight) |
-| --- | --- |
-
-<br>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ---
 
-✨ *Feel free to check out my repos and projects below!* ✨
+## `$ whoami`
+
+```text
+Developer from the Canary Islands, Spain 🇮🇨
+
+DAM Graduate
+AI & Big Data Certified
+
+I like building software that solves actual problems.
+Mobile apps, web, automation, AI — whatever the idea needs.
+```
+
+## 🚀 Currently building
+
+### 📚 TaiStudy
+
+A personal study platform designed around one goal: making preparation for competitive IT exams more effective.
+
+`Tests` · `Smart Reviews` · `Mistake Tracking` · `Statistics` · `Offline-first`
+
+The project includes a structured question engine, review workflows, progress tracking and persistent study data.
+
+> **Status:** actively building & using it.
+
+---
+
+## 🧪 Also exploring
+
+**🥽 Mixed Reality**  
+Experimenting with software for Meta Quest 3 and immersive interfaces.
+
+**🤖 AI & Automation**  
+Finding useful ways to integrate AI and automation into real workflows — not just adding AI for the sake of it.
+
+**📱 Mobile Development**  
+Building applications and experimenting across the Apple and Android ecosystems.
+
+---
+
+## ⚙️ Toolbox
+
+<div align="center">
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
+
+### Building with
+
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### Build → Break → Learn → Improve → Repeat.
+
+<sub>Most of my current work is private while under active development.</sub>
+
+</div>
